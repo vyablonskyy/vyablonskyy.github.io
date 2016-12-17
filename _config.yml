@@ -19,3 +19,5 @@ github_username:  vyablonskyy
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-time-machine
